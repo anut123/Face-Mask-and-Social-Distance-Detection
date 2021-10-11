@@ -3,7 +3,7 @@
 
 <br>
 
-Setting up the environment and installing the dependencies
+#### Setting up the environment and installing the dependencies
 * ***Open the Terminal***
 * ***Change directory to where you want to downloaded this code***
 * ***Run `git clone https://github.com/anut123/Face-Mask-and-Social-Distance-Detection.git`**
