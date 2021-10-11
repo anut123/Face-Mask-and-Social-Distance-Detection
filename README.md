@@ -22,7 +22,7 @@
 <br>
 
 ## To run the inference on local machine:
-* ***Open the terminal**
+* **Open the terminal**
 * **To Run the detection on a locally stored video named pedestrians.mp4 run** `python live_inference.py --input pedestrians.mp4 --output output.avi --display 1`
 * **Whereas to run the detection live using the Webcam simply run** ` python live_inference.py `
 
