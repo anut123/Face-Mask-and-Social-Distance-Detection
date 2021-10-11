@@ -6,7 +6,7 @@
 #### Setting up the environment and installing the dependencies
 * **Open the Terminal**
 * ***Change directory to where you want to downloaded this code***
-* ***Run `git clone https://github.com/anut123/Face-Mask-and-Social-Distance-Detection.git`**
+* **Run `git clone https://github.com/anut123/Face-Mask-and-Social-Distance-Detection.git`**
 * **Creating a new conda environment after installing anaconda**  `  conda create -n ObjectDetection ` ***to create a virtual environment named ObjectDetection.***
 * **Activate the ObjectDetection environment by**   `  conda activate ObjectDetection  python=>3.7` 
 * **Run**   `  pip install -r requirements.txt  ` 
