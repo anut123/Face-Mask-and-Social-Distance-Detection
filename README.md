@@ -34,9 +34,9 @@
 <br>
 <br>
 
-<img src="Images/output1.PNG" width="79%" height="79%">
+<img src="Images/output1.PNG" width="100%" height="79%">
 
 <br>
-<img src="Images/output.jpg" width="79%" height="79%">
+<img src="Images/output.jpg" width="100%" height="79%">
 
 
